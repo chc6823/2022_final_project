@@ -1,27 +1,15 @@
-# 2022_final_project
-2022 건국대학교 졸업 프로젝트 kuroutine팀의 프로젝트 저장소입니다.
+![KULTURE 최종발표 프레젠테이션 (1)_page-0001](https://github.com/chc6823/2022_final_project/assets/87232032/86b43437-1a12-4c6d-8fe4-77d7a8c750dd)
 
-### 개발 환경
-**1. Android Studio**
-  - java 11
-  - Android Studio Chipmunck 2021.2.1 (실행이 안되면 통일)
-  - 필요 사항이 있을 경우 그때 그때 추가
+![KULTURE 최종발표 프레젠테이션 (1)_page-0004](https://github.com/chc6823/2022_final_project/assets/87232032/70e941bb-8447-42e3-b21f-0978dd7387c3)
 
-**2. Github**
-  - `git clone "현재깃주소" "저장위치"` 로 클론해주세요!
-  - 상단의 `Fork` 버튼 한번씩 눌러주세요!
+![KULTURE 최종발표 프레젠테이션 (1)_page-0032](https://github.com/chc6823/2022_final_project/assets/87232032/344b2ddb-479e-4cf9-943f-98a76535ce9b)
 
-**3. Discord**
- 
+![KULTURE 최종발표 프레젠테이션 (1)_page-0033](https://github.com/chc6823/2022_final_project/assets/87232032/86af63ef-dc55-4bf7-98ff-b21bd20a5bdb)
 
+![KULTURE 최종발표 프레젠테이션 (1)_page-0036](https://github.com/chc6823/2022_final_project/assets/87232032/27007095-2232-4320-84a9-51cda7f6dd26)
+![KULTURE 최종발표 프레젠테이션 (1)_page-0039](https://github.com/chc6823/2022_final_project/assets/87232032/3d7504ae-a6e2-4dc1-99f5-f63e9ad298c9)
 
+![KULTURE 최종발표 프레젠테이션 (1)_page-0041](https://github.com/chc6823/2022_final_project/assets/87232032/32774ca4-f1d6-4e9c-b45f-6e464793ebcb)
 
-## Clean Architecture
-
-Data Layer, Domain Layer, Presentation Layer로 계층을 분리해서 분업을 합니다.
-<img width="664" alt="image" src="https://user-images.githubusercontent.com/26290540/189515614-6f82233f-befa-4e70-9d82-58f6ebb106ee.png">
-https://techblog.woowahan.com/2647/
-
-
-## MVVM
+![KULTURE 최종발표 프레젠테이션 (1)_page-0042](https://github.com/chc6823/2022_final_project/assets/87232032/3af6da92-5fdf-453f-8eef-bbc4d0581651)
 
